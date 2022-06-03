@@ -1,6 +1,5 @@
 {
   "homepage": "http://cirojrgit.github.io/Hike",
-
   "name": "hike",
   "version": "0.1.0",
   "private": true,
@@ -27,7 +26,6 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
