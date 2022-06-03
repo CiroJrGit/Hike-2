@@ -36,7 +36,7 @@ const Header: React.FC<Props> = ({toggleTheme}) => {
                             <NotesIcon />
                             <span>Anotações</span>
                         </NavItem>
-                    </Link> */}
+                    </Link> rs*/}
 
                     <Link to='/profile'>
                         <NavItem>
