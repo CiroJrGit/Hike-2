@@ -47,7 +47,7 @@ const Post: React.FC<Props> = ({ imageAvatar, user, local, desc, imagePost, like
                                 <LikeIcon />
                             </span>
                         </Like>
-                        <span>{like ? likeCount : ++likeCount}</span>
+                        <span>{like ? ++likeCount : likeCount}</span>
                     </Status>
 
                     <Status>
